@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Lucas Azevedo
 
-<!--
-**joao-lucas-azevedo/joao-lucas-azevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Full Stack Jr** em formação, apaixonado por criar soluções que unam **design funcional** e **código bem estruturado**.  
+Atualmente estudando **Técnico em Informática** na [FAETERJ – Três Rios/RJ] e desenvolvendo projetos próprios e acadêmicos focados em **front-end, back-end e banco de dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- **Front-end:** HTML, CSS
+- **Back-end:** APIs REST
+- **Bancos de dados:** MySQL, PostgreSQL
+- **Versionamento:** Git, GitHub
+- **Idiomas:** 🇧🇷 Português (nativo), 🇺🇸 Inglês (Limited Working)
+
+---
+
+## 📂 Projetos
+
+Acesse meu GitHub acadêmico: [github.com/Joao-faetec](https://github.com/Joao-faetec)  
+
+---
+
+> 💻 “A tecnologia move o mundo, mas pessoas movem a tecnologia.”
+
+
+
