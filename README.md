@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Lucas Azevedo
+# 👋 Olá, eu sou o João Lucas
 
 🎯 **Desenvolvedor Full Stack Jr** em formação, apaixonado por criar soluções que unam **design funcional** e **código bem estruturado**.  
 Atualmente estudando **Técnico em Informática** na [FAETERJ – Três Rios/RJ] e desenvolvendo projetos próprios e acadêmicos focados em **front-end, back-end e banco de dados**.
