@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Lucas
 
 🎯 **Desenvolvedor Full Stack Jr** em formação, apaixonado por criar soluções que unam **design funcional** e **código bem estruturado**.  
-Atualmente estudando **Técnico em Informática** na [FAETERJ – Três Rios/RJ] e desenvolvendo projetos próprios e acadêmicos focados em **front-end, back-end e banco de dados**.
+Atualmente estudando **Técnico em Informática** na [FAETERJ – Três Rios/RJ] e desenvolvendo projetos próprios e acadêmicos, tendo uma dedicação especial na **Experiencia do Usuário**, assim elaborando um layout **(front-end)** compativel com cada empresa e tendo o máximo de cautela ao projetar um **banco de dados** robusto e funcional.
 
 ---
 
@@ -15,9 +15,9 @@ Atualmente estudando **Técnico em Informática** na [FAETERJ – Três Rios/RJ]
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos Acadêmicos
 
-Acesse meu GitHub acadêmico: [github.com/Joao-faetec](https://github.com/Joao-faetec)  
+Acesse meu GitHub: [github.com/Joao-faetec](https://github.com/Joao-faetec)  
 
 ---
 
